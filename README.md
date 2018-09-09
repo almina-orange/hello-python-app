@@ -1,8 +1,8 @@
-# hello-ruby-app
+# hello-python-app
 
 ## Info
 * Heroku Simple Tutorial
-* 超初歩的な Heroku x ruby
+* 超初歩的な Heroku x Python
 
 ## Basic Component
 ```
